@@ -34,7 +34,7 @@ Start the server
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/66234920/168869523-81b485e0-ff42-45f6-b9d2-344479c4e5c8.png)
-![image](https://user-images.githubusercontent.com/66234920/168870090-b2c3b91d-7a41-4faa-8acd-b3bb1da22eb0.png)
+
 
 
 
